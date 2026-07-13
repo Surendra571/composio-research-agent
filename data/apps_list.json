@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Salesforce", "category": "CRM and Sales", "hint_url": "salesforce.com" },
+  { "id": 2, "name": "GitHub", "category": "Developer, Infra and Data platforms", "hint_url": "docs.github.com/rest" },
+  { "id": 3, "name": "Notion", "category": "Productivity and Project Management", "hint_url": "developers.notion.com" },
+  { "id": 4, "name": "Stripe", "category": "Finance and Fintech", "hint_url": "stripe.com/docs/api" }
+]

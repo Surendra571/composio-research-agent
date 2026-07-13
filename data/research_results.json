@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Salesforce",
+    "category": "CRM and Sales",
+    "description": "Salesforce provides a comprehensive suite of APIs to programmatically access and manipulate CRM data, manage metadata, and integrate with external systems.",
+    "auth_method": "OAuth 2.0 (Web Server, User-Agent, JWT Bearer, Username-Password flows), Session ID, SAML",
+    "access_model": "Self-serve",
+    "api_surface": "REST, SOAP, Bulk, Streaming (Pub/Sub), GraphQL, Metadata, Tooling",
+    "buildability_verdict": "Highly buildable with comprehensive, well-documented APIs, free developer environments (Developer Edition), and robust SDKs.",
+    "docs_url": "https://developer.salesforce.com/docs"
+  },
+  {
+    "id": 2,
+    "name": "GitHub",
+    "category": "Developer, Infra and Data platforms",
+    "description": "GitHub's REST API enables developers to manage repositories, users, organizations, pull requests, issues, and workflows programmatically.",
+    "auth_method": "OAuth 2.0, Personal Access Tokens (PAT), and GitHub App installation tokens",
+    "access_model": "Self-serve",
+    "api_surface": "REST API with JSON payloads, supporting standard HTTP methods (GET, POST, PUT, PATCH, DELETE)",
+    "buildability_verdict": "Excellent. Highly documented with comprehensive OpenAPI specifications, SDKs, and extensive community support.",
+    "docs_url": "https://docs.github.com/en/rest"
+  },
+  {
+    "id": 3,
+    "name": "Notion",
+    "category": "Productivity and Project Management",
+    "description": "Notion's API allows developers to connect Notion pages and databases to other tools, automate workflows, and build custom integrations by programmatically interacting with workspace data.",
+    "auth_method": "OAuth 2.0 and Internal Integration Tokens",
+    "access_model": "Self-serve",
+    "api_surface": "REST API",
+    "buildability_verdict": "Highly buildable with comprehensive documentation, official SDKs, and an interactive API reference.",
+    "docs_url": "https://developers.notion.com"
+  },
+  {
+    "id": 4,
+    "name": "Stripe",
+    "category": "Finance and Fintech",
+    "description": "Stripe provides a comprehensive suite of APIs for online payment processing, subscription management, invoicing, and financial services.",
+    "auth_method": "API Keys (Bearer Token)",
+    "access_model": "Self-serve",
+    "api_surface": "REST API",
+    "buildability_verdict": "Highly buildable, widely considered the gold standard of developer documentation and API design with extensive SDK support.",
+    "docs_url": "https://stripe.com/docs/api"
+  }
+]

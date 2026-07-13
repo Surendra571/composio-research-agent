@@ -11,7 +11,7 @@ This project operates as a highly optimized, 4-app programmatic proof-of-concept
 Below is the visual overview of the compiled, interactive Product Ops dashboard displaying aggregated industry trends, pipeline validation telemetry, and the filterable research matrix:
 
 ### 1. Executive Insights & Telemetry
-![Executive Insights & Verification Telemetry](docs/dashboard-preview-1.png)
+![Executive Insights & Verification Telemetry](docs/dashboard-preview.png)
 
 ### 2. Interactive App Research Matrix
 ![Interactive Matrix View](docs/dashboard-preview-2.png)
